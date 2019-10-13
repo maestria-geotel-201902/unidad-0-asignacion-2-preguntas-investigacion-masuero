@@ -11,12 +11,12 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* ¿Es posible relacionar las temperaturas y la ocurrencia de incendios forestales en un período de 20 en la República Dominicana?
 
-* ...
+* ¿Los volúmenes de lluvia durante el periodo de los 20 años pueden ser agregados al análisis anteriormente señalado?
 
-* ...
+* ¿Es posible predecir los lugares y la fecha donde ocurrirán incendios forestales?
 
-* ...
+* Cambiando de tema ¿Con datos de población es posible determinar las áreas de futuro crecimiento económico y áreas donde podría existir un estancamiento?
 
-* ...
+* En base a datos de población y crecimiento, ¿Es posible calcular la necesidad de mejoras en servicios a la población, como cantidad de escuelas, estaciones de bomberos, destacamentos policiales, hospitales?
